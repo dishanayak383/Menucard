@@ -31,7 +31,25 @@ const menuItems = [
     price: "Rp 95.000,00",
     image: "/images/mangoo milk.jpg",
     available: 6,
-  }
+  },
+  {
+    name: "Smoothie Brown Berry",
+    price: "Rp 95.000,00",
+    image: "/images/Smoothie Brown Berry",
+    available: 2,
+  },
+  {
+    name: "Rainbow Cupcake",
+    price: "Rp 95.000,00",
+    image:"/images/Rainbow Cupcake",
+    available: 10,
+  },
+  {
+    name: "Mie Gocengan Spicy",
+    price: "Rp 95.000,00",
+    image: "https://p16-va.lemon8cdn.com/tos-alisg-v-a3e477-sg/oIiX6AWztE1zBARAiwpqB2SCQOtfIy3AeDRgEB~tplv-tej9nj120t-origin.webp",
+    available: 6,
+  },
   
 ];
 
